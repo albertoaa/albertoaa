@@ -69,9 +69,9 @@ I'm a **Technical Lead at EXADS**, where I:
 
 ## GitHub Stats 📊
 
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoaa&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoaa&layout=compact&theme=tokyonight)
+![Alberto's GitHub stats](./profile/stats.svg)
+ 
+![Top Languages](./profile/top-langs.svg)
 
 ## Areas of Focus 🎯
 
