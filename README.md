@@ -16,7 +16,7 @@ I care about scalable, secure, and efficient systems — and lately about gettin
 
 I'm a **Technical Lead at UsTwo**, where I:
 
-- Lead a cross-functional squad building with TypeScript, React Native, Express, AWS, Ampligy.
+- Lead a cross-functional squad building with TypeScript, React Native, Express, AWS, Amplify.
 - Help push **AI first adoption** into development lifecycle.
 - Driving the initiative of Soft Skills at UsTwo so that it becomes really important part of the day to day.
 
