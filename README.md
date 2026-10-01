@@ -14,12 +14,11 @@ I care about scalable, secure, and efficient systems — and lately about gettin
 
 ## What I'm Doing Now 🛠️
 
-I'm a **Technical Lead at EXADS**, where I:
+I'm a **Technical Lead at UsTwo**, where I:
 
-- Lead a cross-functional squad building with TypeScript, Python, Go, Angular, Terraform, AWS, Airflow, and Machine Learning.
-- Help put **MLOps pipelines** in place to deploy trained models into production (Python + Airflow).
-- Drove an AWS account consolidation initiative that cut usage costs by ~35%.
-- Led release automation with GitHub Actions, reducing deployment complexity and time by ~60%.
+- Lead a cross-functional squad building with TypeScript, React Native, Express, AWS, Ampligy.
+- Help push **AI first adoption** into development lifecycle.
+- Driving the initiative of Soft Skills at UsTwo so that it becomes really important part of the day to day.
 
 ## Tech Stack 💻
 
